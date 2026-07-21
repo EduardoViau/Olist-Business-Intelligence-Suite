@@ -1,0 +1,12 @@
+# Arquivos de sistema e ambiente
+.env
+*.log
+*.tmp
+
+# Python / Ambientes virtuais
+venv/
+.venv/
+__pycache__/
+
+# Conexões/Bancos temporários
+*.laccdb
