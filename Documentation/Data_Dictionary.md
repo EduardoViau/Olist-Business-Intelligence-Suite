@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Data Dictionary
 
 ## Tabela: Customers
@@ -172,4 +173,6 @@ Quantidade de registros: 100
 | translated_name | VARCHAR | Nome traduzido da categoria     |
 
 Relacionamentos:
+=======
+>>>>>>> ff6adf50f1ee521289c1d0a86421141ca329addb
 
